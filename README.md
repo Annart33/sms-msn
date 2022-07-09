@@ -36,3 +36,4 @@ dotnet build && dotnet run --urls=http://localhost:7272
 To set up the client side please run in your console (in my-app project), the following command: \
 npm i && npm start
 # sms-msn
+# sms-msn

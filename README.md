@@ -28,9 +28,9 @@ The Message mapper maps the message request into the message object in order to 
 
 # How to run the app
 ### Server side
-To set up the server side please run in your console (in the API project), the following command: \
+To set up the server side please run in your console, the following command: \
 dotnet build && dotnet run --urls=http://localhost:7272
 ### Client side
-To set up the client side please run in your console (in my-app project), the following command: \
+To set up the client side please run in your console, the following command: \
 npm i && npm start
 
